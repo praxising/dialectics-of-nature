@@ -56,6 +56,7 @@ Please choose the most suitable path based on your contribution purpose:
   1. Click the links above to enter a specific file (e.g., `en/chapter-1.md`).
   2. Click the small pencil icon **✏️ (Edit this file)** in the top right corner.
   3. Edit or add text directly in the box, then click the green **Commit changes...** button to propose your revision.
+  4. 💡 **Notice**: **Your revisions will not take effect immediately. They will be reviewed by our team, and you will be notified once approved. Please edit with confidence!**
 
 ### ⚡ 2. Logical Debates
 * **When to use**: Pointing out chronological limitations or logical gaps in the classic text's reasoning. This involves core theoretical changes and requires global academic debate.
@@ -63,8 +64,7 @@ Please choose the most suitable path based on your contribution purpose:
   1. Click the [Academic Forum](https://github.com/dialectics-of-nature/2026/issues) link in the Quick Links section above.
   2. Click the green **New issue** button in the top right corner.
   3. Add `[Logical Debate]` to your title, write down your argument, and join the discussion in the comments.
-  4. 💡 **Notice**: **Your revisions will not take effect immediately. They will be reviewed by our team, and you will be notified once approved. Please edit with confidence!**
-
+     
 ### 🧪 3. Scientific Fact Updates
 * **When to use**: Using 21st-century scientific breakthroughs (e.g., quantum mechanics, modern cosmology, chaos theory, modern biology) to replace, correct, or supplement outdated 19th-century scientific data and case studies.
 * **🛠️ Operation Steps**:
